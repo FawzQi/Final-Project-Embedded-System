@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "gpio.h": "c",
+    "3_5024231032": "cpp",
+    "freertos.h": "c",
+    "ssd1306.h": "c",
+    "i2c.h": "c",
+    "task.h": "c",
+    "esp_adc_cal.h": "c",
+    "type_utils.h": "c",
+    "esp_err.h": "c",
+    "ads111x.h": "c",
+    "stdio.h": "c",
+    "esp_lcd_panel_io.h": "c",
+    "esp_lcd_panel_ops.h": "c",
+    "esp_lcd_panel_ssd1306.h": "c",
+    "i2c_master.h": "c",
+    "i2c-lcd1602.h": "c",
+    "smbus.h": "c",
+    "gpio_struct.h": "c"
+  }
+}
