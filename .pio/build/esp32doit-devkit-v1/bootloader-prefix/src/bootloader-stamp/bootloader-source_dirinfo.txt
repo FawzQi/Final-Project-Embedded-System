@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=C:/Users/MSI-GF63/.platformio/packages/framework-espidf/components/bootloader/subproject
+source_dir=/home/faiq/.platformio/packages/framework-espidf/components/bootloader/subproject
 work_dir=
 

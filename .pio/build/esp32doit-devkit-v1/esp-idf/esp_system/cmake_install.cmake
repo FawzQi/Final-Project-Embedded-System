@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/MSI-GF63/.platformio/packages/framework-espidf/components/esp_system
+# Install script for directory: /home/faiq/.platformio/packages/framework-espidf/components/esp_system
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/IDF")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,11 +34,11 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/MSI-GF63/.platformio/packages/toolchain-xtensa-esp-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "/home/faiq/.platformio/packages/toolchain-xtensa-esp-elf/bin/xtensa-esp32-elf-objdump")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/esp-idf/esp_system/port/cmake_install.cmake")
+  include("/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/esp-idf/esp_system/port/cmake_install.cmake")
 endif()
 

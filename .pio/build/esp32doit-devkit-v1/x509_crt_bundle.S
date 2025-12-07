@@ -1,4 +1,4 @@
-/* * Data converted from E:\Kuliah\Embed\Final-Project-Embedded-System\.pio\build\esp32doit-devkit-v1\x509_crt_bundle
+/* * Data converted from /media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

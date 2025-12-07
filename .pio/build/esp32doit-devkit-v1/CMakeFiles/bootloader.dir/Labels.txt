@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/CMakeFiles/bootloader
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/CMakeFiles/bootloader.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/CMakeFiles/bootloader-complete.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/CMakeFiles/bootloader
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/CMakeFiles/bootloader.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/CMakeFiles/bootloader-complete.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

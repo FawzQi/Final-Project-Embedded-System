@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: E:\Kuliah\Embed\Final-Project-Embedded-System\.pio\build\esp32doit-devkit-v1\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: /media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/esp-idf/esp_system/ld/sections.ld.in */
 
 /*
  * SPDX-FileCopyrightText: 2021 Espressif Systems (Shanghai) CO LTD
@@ -13,11 +13,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 /*
-
  * Automatically generated file. DO NOT EDIT.
-
  * Espressif IoT Development Framework (ESP-IDF) 5.5.0 Configuration Header
-
  */
        
 /* List of deprecated options */

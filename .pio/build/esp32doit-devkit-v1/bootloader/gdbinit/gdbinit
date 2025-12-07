@@ -1,2 +1,2 @@
-source E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader/gdbinit/symbols
-source E:/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader/gdbinit/connect
+source /media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader/gdbinit/symbols
+source /media/faiq/Dump/Kuliah/Embed/Final-Project-Embedded-System/.pio/build/esp32doit-devkit-v1/bootloader/gdbinit/connect
