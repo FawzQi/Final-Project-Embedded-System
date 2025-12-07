@@ -42,6 +42,7 @@ int mode = BIRD_GAME;
 int bird_highscore = 0;
 int button_counter = 0;
 
+int snake_tail[2] = {0, 0};
 int body_snake[8][2] = {{0, 0}, {0, 0}, {0, 0}, {0, 0}, {0, 0}, {0, 0}, {0, 0}, {0, 0}};
 int length_snake = 0;
 int direction_snake = 0;  // 0=up,1=down,2=left,3=right
@@ -584,6 +585,9 @@ void game_logic_task(void* pv) {
                 continue;
             }
             // Gerakkan snake
+            snake_tail[0] = body_snake[length_snake - 1][0];
+            snake_tail[1] = body_snake[length_snake - 1][1];
+
             for (int i = length_snake - 1; i > 0; i--) {
                 body_snake[i][0] = body_snake[i - 1][0];
                 body_snake[i][1] = body_snake[i - 1][1];
@@ -665,10 +669,8 @@ void game_logic_task(void* pv) {
                 length_snake++;
                 if (length_snake > 5) length_snake = 5;
                 buzzer_state = 1;
-                for (int i = length_snake - 1; i > 0; i--) {
-                    body_snake[i][0] = body_snake[i - 1][0];
-                    body_snake[i][1] = body_snake[i - 1][1];
-                }
+                body_snake[length_snake - 1][0] = snake_tail[0];
+                body_snake[length_snake - 1][1] = snake_tail[1];
                 // Tempatkan makanan baru dan pastikan tidak di tubuh snake
                 int valid_food = 0;
                 while (!valid_food) {
